@@ -1,3 +1,4 @@
-# GQS
-Lucca Palmieri Dittrich
-823217461
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/97072653?v=4" width=75 />
+  <br><strong>GQS<br>Lucca Palmieri Dittrich<br>823217461</strong>
+</p>
